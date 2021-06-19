@@ -28,8 +28,8 @@ console.log(Direction[12]); //Down
 * 只有常量值的枚举，可以使用常量枚举
 
 ```ts
-const enmu XXX{
-    One = 'ONE',
-    two = 'TWO',
+const enum XXX {
+  One = 'ONE',
+  two = 'TWO',
 }
 ```
