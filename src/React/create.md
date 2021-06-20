@@ -1,3 +1,7 @@
+---
+order: 1
+---
+
 ## 创建一个 React
 
 - 使用官方脚手架 `create-react-app`(命令行的工具)

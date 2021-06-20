@@ -1,3 +1,7 @@
+---
+order: 6
+---
+
 ## type
 
 ## type aliases 类型别名

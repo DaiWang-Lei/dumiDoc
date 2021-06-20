@@ -44,3 +44,5 @@ interface IBaseButtonProps {
 
 - `npm i classnames @types/classnames`安装 className 插件
 - `classNames` 任意门 🚪 'https://github.com/JedWatson/classnames'
+
+## 5、创建`button.scss`，并添加相关样式，并在全局`index.scss`中引入
